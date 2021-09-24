@@ -27,4 +27,15 @@
 > order that is not simply unequal but justly unequal. And as aristocracy's ideals once did, so meritocracy's claims about virtue and desert today persuade not just the privileged elite but also—ambivalently and unhappily, to be sure— the many whom meritocracy excludes.
 >
 > But merit's allure is an illusion. Because the meritocrat's skills are valuable only against a backdrop of prior economic inequality, efforts to justify inequality based on the value, or merit, of these skills succumb to the fallacy of circular reasoning. Like the aristocratic values that it replaces, merit is not a natural or universal virtue but rather the upshot ofprior inequalities. Merit is an artificial construction, built to valorize the exploitation of human capital, and, in this way, to launder an otherwise offensive distribution of advantage.
-
+>
+> He might have added that the paradox put his own governments moral  authority at risk:how could a society that condemned its poor to avoidable material misery and social exclusion legitimately expect them to remain loyal to its institutions and to obey its laws?
+>
+> The shift from low-to high-end inequality further hardens meritocratic inequality against conventional progressive arguments. Poverty endures, of course,and relief remains amoral imperative. But the War on Poverty (even if never completed) has transformed the political landscape. The politics of equality now focus on the growing relative gap between the top and the middle rather than on absolute need at the bottom-on frustration among the middle class rather than wretchedness among the poor. (Progressive nostalgia for the midcentury economy, when the middle class thrived while the poor suffered, symbolizes this shift.)
+>
+> The biggest losers from these developments, moreover, are not the poor, fo who (even in a democracy) face obstacles to concerted political action. Instead, the biggest losers-who have simultaneously suffered a declining income share and a rising share of the tax burden-have been the broad middle class. This group includes journalists, teachers and professors, middle managers, government workers, engineers, and even doctors in general practice. It is neither ill-educated nor disempowered but, to the contrary, can influence and possibly control the nation's medical and scientific establishment, its press, its universities, and even its most important bureaucracies.
+>
+> Today, Arthur C. Brooks, the president of the American Enterprise
+>Institute, emphasizes that many of the concrete programs that
+>progressives champion (including Social Security, Medicare, and
+>subsidized college loans) distribute substantial portions of their
+>benefits not to the poor but rather to the middle class.
