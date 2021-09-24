@@ -1,2 +1,1 @@
-# quotes
-My collection of quotes
+# My collection of quotes
