@@ -39,3 +39,7 @@
 >progressives champion (including Social Security, Medicare, and
 >subsidized college loans) distribute substantial portions of their
 >benefits not to the poor but rather to the middle class.
+>
+> In all these ways, rich parents spend ever-greater sums on training their children, so that no facet of consumption inequality is increasing more rapidly than expenditure on education.
+>
+> Educational inequality has therefore increased markedly alongside rising income inequality. The gap between the test scores of high- and low-income students has grown by between 40 and 50 percent over the past twenty-five years, so that by the eighth grade, students from rich families are four grade levels ahead of those from poor ones. The achievement gap between rich and poor students in the United States today exceeds the present-day white/black achievement gap, which is three grade levels, and even exceeds the white/ black gap that racially segregated schools produced at midcentury.
