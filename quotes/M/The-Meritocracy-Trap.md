@@ -43,3 +43,57 @@
 > In all these ways, rich parents spend ever-greater sums on training their children, so that no facet of consumption inequality is increasing more rapidly than expenditure on education.
 >
 > Educational inequality has therefore increased markedly alongside rising income inequality. The gap between the test scores of high- and low-income students has grown by between 40 and 50 percent over the past twenty-five years, so that by the eighth grade, students from rich families are four grade levels ahead of those from poor ones. The achievement gap between rich and poor students in the United States today exceeds the present-day white/black achievement gap, which is three grade levels, and even exceeds the white/ black gap that racially segregated schools produced at midcentury.
+
+> Nevertheless, a reasonable estimate (robust in the face of
+  variations in the background assumptions) can be constructed, and
+  the results of the exercise are truly astonishing: the excess
+  investments in human capital made in a typical rich household - over
+  and above the educational investments made not just in poor but also
+  in middleclass households - today are equivalent to a traditional
+  inheritance in the neighborhood of $10 million per child .
+
+> The elite's enormous investment in its children's education
+  (enormous both absolutely and relative to the educational
+  expenditures of the middle class)represents a new and distinctively
+  meritocratic technology of dynastic succession, truly a "revolution
+  in family wealth transmission." Rich parents and rich children both
+  gravitate naturally toward human capital as the preferred means for
+  passing income and status down through the generations. This is why
+  total education expenditure today grows more rapidly with rising
+  income than does expenditure on any other major category of
+  consumption, and why inequality in expenditures on education has in
+  recent decades increased more rapidly even than income
+  inequality. Indeed, meritocracy's imaginative hold over today's
+  elite is so powerful that even the super-richwho own enough physical
+  and financial capital to secure dynastic succession through
+  traditional bequests-nevertheless commonly give their children a
+  meritocratic inheritance, often (as in Mark Zuckerberg's case) as
+  their principal or exclusive bequest.
+
+
+> On the one hand, and in contrast to ordinary goods, when elites buy
+  extravagant education, they directly diminish the educations that
+  everyone else has. When the rich buy expensive chocolate, this does
+  not make the middle class's cheap chocolate taste worse. But when
+  the rich make exceptional investments in schooling, this does reduce
+  the value of ordinary, middle-class training and degrees. The
+  parents who buy test preparation for their children reduce everyone
+  else's chance of getting into Hunter High, and the intensive
+  education that Hunter High provides to its students reduces everyone
+  else's chances of getting into Harvard. Every meritocratic success
+  necessarily breeds a flip side of failure.
+
+> On the other hand, educational competition within the elite removes
+  an important brake on consumption that restrains demand for ordinary
+  goods in the face of rising incomes. The rich become sated on
+  chocolate, but they do not become sated on schooling. Instead, they
+  invest more, and more, and more in educating their children, in an
+  effort to outdo one another. The maximum is set only by physical and
+  psychological constraints on the children's capacity to absorb
+  training-in the crassest limit, the fact that schools and the
+  parents who pay for them can hire only one teacher to engage their
+  students at a time and that children, for their part, can study only
+  so many hours in a day. Meritocratic education inexorable engenders
+  a wasteful and destructive educational arms race, which ultimately
+  benefits no one, not even the victors.
+
