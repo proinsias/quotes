@@ -28,7 +28,7 @@ Daniel Markovits
 >
 > But merit's allure is an illusion. Because the meritocrat's skills are valuable only against a backdrop of prior economic inequality, efforts to justify inequality based on the value, or merit, of these skills succumb to the fallacy of circular reasoning. Like the aristocratic values that it replaces, merit is not a natural or universal virtue but rather the upshot ofprior inequalities. Merit is an artificial construction, built to valorize the exploitation of human capital, and, in this way, to launder an otherwise offensive distribution of advantage.
 >
-> He might have added that the paradox put his own governments moral  authority at risk:how could a society that condemned its poor to avoidable material misery and social exclusion legitimately expect them to remain loyal to its institutions and to obey its laws?
+> He might have added that the paradox put his own governments moral authority at risk:how could a society that condemned its poor to avoidable material misery and social exclusion legitimately expect them to remain loyal to its institutions and to obey its laws?
 >
 > The shift from low-to high-end inequality further hardens meritocratic inequality against conventional progressive arguments. Poverty endures, of course,and relief remains amoral imperative. But the War on Poverty (even if never completed) has transformed the political landscape. The politics of equality now focus on the growing relative gap between the top and the middle rather than on absolute need at the bottom-on frustration among the middle class rather than wretchedness among the poor. (Progressive nostalgia for the midcentury economy, when the middle class thrived while the poor suffered, symbolizes this shift.)
 >
@@ -99,7 +99,7 @@ Daniel Markovits
 > Whereas work once underwrote midcentury America's apt self-image as
 > an economy and society dominated by the broad middle class, work
 > today underwrites the equally apt sense of a rising division between
-> the rich and the  perience, and the unionized middle-class
+> the rich and the perience, and the unionized middle-class
 > autoworkers at General Motors embodied the labor market. Today, work
 > divides Americans, in a labor market epitomized by Walmart greeters
 > and Goldman Sachs bankers.
